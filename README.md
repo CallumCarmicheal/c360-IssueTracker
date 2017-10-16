@@ -22,10 +22,13 @@ By using the it is easier for us to skim the issue to see if we have already fix
 Use this markdown as a template for your issue posts.
 
 ```markdown
+Information 
+----
+
 Chaotic Version: 
 Any error messages: 
 
-Description of what happend
+Description of what happened
 ----
 
 [//]: # (Under here describe what happened and anything that can be used to help us fix and identify the issue)
